@@ -133,7 +133,6 @@ table{
 .bottom-container{
   text-align: center;
   height: 80px;
-  background-color: #053742;
 }
 
 .media-href{
@@ -151,5 +150,5 @@ table{
 
 .copyright{
   padding-top: 20px;
-  color: #E8F0F2;
+  color: #053742;
 }
